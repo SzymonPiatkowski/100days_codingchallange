@@ -58,5 +58,18 @@
 1. [codecademy CS path with python 3](https://www.codecademy.com/paths/computer-science/tracks/cspath-cumulative-tourism/modules/cspath-boredless-tourist/projects/the-boredless-tourist)
 
 
+
+### Day 8: April 6, 2020 
+
+**Today's Progress**: Python loops - PROJECT "The Boredless Tourist" / 21%
+
+**Thoughts:** Added new repo on github for those projects
+
+**Link to work:**
+1. [codecademy CS path with python 3](https://www.codecademy.com/paths/computer-science/tracks/cspath-cumulative-tourism/modules/cspath-boredless-tourist/projects/the-boredless-tourist)
+2. [codecademy CS - projects - github repo](https://github.com/SzymonPiatkowski/pyProjects/blob/master/ca/the-boredless-tourist)
+
+
+
 ###
 ###
