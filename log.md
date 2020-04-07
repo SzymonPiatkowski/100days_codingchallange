@@ -71,5 +71,16 @@
 
 
 
+### Day 9: April 7, 2020 
+
+**Today's Progress**: Python - string methods / 23%
+
+**Thoughts:** .
+
+**Link to work:**
+1. [codecademy CS path with python 3](https://www.codecademy.com/paths/computer-science/tracks/cspath-python-objects/modules/cspath-python-strings/lessons/string-methods/exercises/introduction-ii)
+
+
+
 ###
 ###
