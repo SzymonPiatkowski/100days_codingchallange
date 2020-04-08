@@ -81,6 +81,16 @@
 1. [codecademy CS path with python 3](https://www.codecademy.com/paths/computer-science/tracks/cspath-python-objects/modules/cspath-python-strings/lessons/string-methods/exercises/introduction-ii)
 
 
+### Day 10: April 8, 2020 
+
+**Today's Progress**: Python - string methods - review / 24%
+
+**Thoughts:** Summer is here already! 22C
+
+**Link to work:**
+1. [codecademy CS path with python 3](https://www.codecademy.com/paths/computer-science/tracks/cspath-python-objects/modules/cspath-python-strings/lessons/string-methods/exercises/review-ii)
+
+
 
 ###
 ###
