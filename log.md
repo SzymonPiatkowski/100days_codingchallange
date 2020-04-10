@@ -92,5 +92,29 @@
 
 
 
+### Day 11: April 9, 2020 
+
+**Today's Progress**: Python - string methods - review / 25%
+
+**Thoughts:** Stuck after whole day of learning
+
+**Link to work:**
+1. [codecademy CS path with python 3](https://www.codecademy.com/paths/computer-science/tracks/cspath-python-objects/modules/cspath-python-strings/lessons/string-methods/exercises/review-ii)
+2. [cheatsheet string methods](https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-python-objects/modules/cspath-python-strings/cheatsheet)
+
+
+
+### Day 12: April 10, 2020 
+
+**Today's Progress**: Python - censor dispenser - challenge project / 26%
+
+**Thoughts:** Problem solving skill works better after good night in bed :)
+
+**Link to work:**
+1. [codecademy CS path with python 3](https://www.codecademy.com/paths/computer-science/tracks/cspath-python-objects/modules/cspath-python-strings/lessons/string-methods/exercises/review-ii)
+2. [cheatsheet string methods](https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-python-objects/modules/cspath-python-strings/cheatsheet)
+3. [projects - github repo](https://github.com/SzymonPiatkowski/pyProjects/tree/master/ca/censor-dispenser)
+
+
 ###
 ###
