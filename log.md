@@ -116,5 +116,20 @@
 3. [projects - github repo](https://github.com/SzymonPiatkowski/pyProjects/tree/master/ca/censor-dispenser)
 
 
+
+### Day 13: April 11, 2020 
+
+**Today's Progress**: CS with Python3 - string method practice + modules / 27%
+
+**Thoughts:** ehhh
+
+**Link to work:**
+0. [string methods practice](https://www.codecademy.com/courses/learn-python-3/lessons/python-functions-strings-cc/exercises/introduction)
+1. [modules](https://www.codecademy.com/paths/computer-science/tracks/cspath-python-objects/modules/cspath-modules/lessons/modules-python/exercises/modules-python-intro)
+2. [cheatsheet modules](https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-python-objects/modules/cspath-modules/cheatsheet)
+
+
+
+
 ###
 ###
