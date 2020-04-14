@@ -119,7 +119,7 @@
 
 ### Day 13: April 11, 2020 
 
-**Today's Progress**: CS with Python3 - string method practice + modules / 27%
+**Today's Progress**: CS with Python3 - string method practice + modules / 26%
 
 **Thoughts:** ehhh
 
@@ -129,7 +129,42 @@
 2. [cheatsheet modules](https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-python-objects/modules/cspath-modules/cheatsheet)
 
 
+### Day 14: April 12, 2020
+### Day 15: April 13, 2020
 
+**Today's Progress**: CS with Python3 - string method practice + modules + side project / 26%
+
+**Thoughts:** holiday break, but with pratice coding skills
+
+**Link to work:**
+0. [string methods practice](https://www.codecademy.com/courses/learn-python-3/lessons/python-functions-strings-cc/exercises/introduction)
+1. [modules](https://www.codecademy.com/paths/computer-science/tracks/cspath-python-objects/modules/cspath-modules/lessons/modules-python/exercises/modules-python-intro)
+2. [cheatsheet modules](https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-python-objects/modules/cspath-modules/cheatsheet)
+
+
+### Day 16: April 14, 2020
+
+**Today's Progress**: CS with Python3 - dictionaries / 26%
+
+**Thoughts:** full day of the coding experience with 'Money Heist' as a breaks :)
+
+**Link to work:**
+0. [dictionaries practice](https://www.codecademy.com/paths/computer-science/tracks/cspath-python-objects/modules/cspath-python-dictionaries/lessons/dictionaries-introduction/exercises/review)
+1. [cheatsheet dictionaries](https://www.codecademy.com/learn/paths/computer-science/tracks/cspath-python-objects/modules/cspath-python-dictionaries/cheatsheet)
+
+
+###
+###
+
+### Day XX: April XX , 2020 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:**
+0. []()
+1. [cheatsheet]()
 
 ###
 ###
